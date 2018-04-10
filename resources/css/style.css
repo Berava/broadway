@@ -6,7 +6,11 @@
   font-size: 14px; /* for p elements */
 }
 
-header {
+#line {
+  color: white;
+}
+
+.backimage {
   background-image: url("../images/the-flatiron-building.png");
   background-repeat: no-repeat;
 }
