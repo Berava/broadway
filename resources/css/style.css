@@ -1,0 +1,9 @@
+#home {
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
+  color: white;
+}
+
+header {
+  background-image: url("../images/the-flatiron-building.png");
+}
